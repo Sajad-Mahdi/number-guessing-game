@@ -1,2 +1,16 @@
-# number-guessing-game
-Game for guessing a number between 1-100
+# Number Guessing Game
+
+A game where the player tries to guess a number between 1-100.
+
+Features :-
+- Input validation (rejects non-numbers)
+- Tracks all guesses made
+- Shows closest and farthest guess at the end
+- Replay option
+
+What I learned :-
+Built while learning Python fundamentals — loops, functions, and error handling.
+Then i refactored it into a class-based version while learning OOP.
+
+How to run :-
+python guessing_game.py
