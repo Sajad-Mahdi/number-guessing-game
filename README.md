@@ -9,5 +9,6 @@ Features :
 - Replay option
 
 What I learned :
+
 loops, functions, and error handling.
 Then i refactored it into a class-based version while learning OOP.
