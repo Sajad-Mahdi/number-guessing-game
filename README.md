@@ -9,8 +9,5 @@ Features :-
 - Replay option
 
 What I learned :-
-Built while learning Python fundamentals — loops, functions, and error handling.
+loops, functions, and error handling.
 Then i refactored it into a class-based version while learning OOP.
-
-How to run :-
-python guessing_game.py
